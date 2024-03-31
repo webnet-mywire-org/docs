@@ -1,2 +1,2 @@
-# docs
+# WebNet Docs
 WebNet Documentation
