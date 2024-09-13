@@ -1,3 +1,7 @@
+# Login (POST) - WN API DOCS
+
+Documentation of login API - https://api.webnet.mywire.org/auth/login (POST)
+
 ## REQUEST
 
 |         	|             	|
