@@ -4,13 +4,13 @@ Documentation of login API - https://api.webnet.mywire.org/auth/login (POST)
 
 ## REQUEST
 
-|         	|             	|
-|---------	|-------------	|
-| Method: 	| POST        	|
-| URL:    	| /auth/login 	|
-| Body:   	| JSON        	|
+| HTTP Parametars 	| Value       	|
+|------------	|-------------	|
+| Method:    	| POST        	|
+| URL:       	| /auth/login 	|
+| Body:      	| JSON        	|
 
-| **Parameters** 	| **Type** 	| **Necessary** 	| **Description**                                                                     	|
+| **Body Parameters** 	| **Type** 	| **Necessary** 	| **Description**                                                                     	|
 |----------------	|----------	|---------------	|-------------------------------------------------------------------------------------	|
 | username       	| string   	| YES           	| The user's username                                                                 	|
 | password       	| string   	| YES           	| The user's password                                                                 	|
