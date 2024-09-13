@@ -4,19 +4,19 @@ Documentation of login API - https://api.webnet.mywire.org/auth/login (POST)
 
 ## REQUEST
 
-| HTTP Parametars 	| Value       	|
-|------------	|-------------	|
-| Method:    	| POST        	|
-| URL:       	| /auth/login 	|
-| Body:      	| JSON        	|
+| **HTTP Parametars** 	| **Value**       	|
+|-------------------	|---------------	|
+| Method:           	| POST          	|
+| URL:              	| /auth/login   	|
+| Body:             	| JSON          	|
 
 | **Body Parameters** 	| **Type** 	| **Necessary** 	| **Description**                                                                     	|
-|----------------	|----------	|---------------	|-------------------------------------------------------------------------------------	|
-| username       	| string   	| YES           	| The user's username                                                                 	|
-| password       	| string   	| YES           	| The user's password                                                                 	|
-| domain         	| string   	| NO            	| The domain the user belongs to (default: webnet.mywire.org)                         	|
-| device_key     	| boolean  	| YES           	| If set to TRUE, a session device key will also be generated                         	|
-| device_name    	| string   	| YES           	| The name of the user's device or application from which authentication is performed 	|
+|-------------------	|----------	|---------------	|-------------------------------------------------------------------------------------	|
+| username          	| string   	| YES           	| The user's username                                                                 	|
+| password          	| string   	| YES           	| The user's password                                                                 	|
+| domain            	| string   	| NO            	| The domain the user belongs to (default: webnet.mywire.org)                         	|
+| device_key        	| boolean  	| YES           	| If set to TRUE, a session device key will also be generated                         	|
+| device_name       	| string   	| YES           	| The name of the user's device or application from which authentication is performed 	|
 
 ## RESPONSE - Code: 200 (OK)
 
