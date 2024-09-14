@@ -5,3 +5,13 @@ Welcome to the WebNet API Documentation, your comprehensive guide to integrating
 ## AUTH
 
 Login - [https://api.webnet.mywire.org/auth/login (POST)](https://webnet-mywire-org.github.io/docs/api/auth/login-post.html)
+
+Get Session - [https://api.webnet.mywire.org/auth/session (GET)](https://webnet-mywire-org.github.io/docs/api/auth/session-get.html)
+
+Get Sessions - [https://api.webnet.mywire.org/auth/sessions (GET)](https://webnet-mywire-org.github.io/docs/api/auth/sessions-get.html)
+
+Logout Session - [https://api.webnet.mywire.org/auth/session (DELETE)](https://webnet-mywire-org.github.io/docs/api/auth/session-delete.html)
+
+Get Devices - [https://api.webnet.mywire.org/auth/device (GET)](https://webnet-mywire-org.github.io/docs/api/auth/device-get.html)
+
+Logout Device - [https://api.webnet.mywire.org/auth/device (DELETE)](https://webnet-mywire-org.github.io/docs/api/auth/device-delete.html)

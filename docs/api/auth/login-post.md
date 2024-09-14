@@ -5,13 +5,13 @@ Documentation of login API - https://api.webnet.mywire.org/auth/login (POST)
 ## REQUEST
 
 | **HTTP Parametars** 	| **Value**                                 	|
-|-------------------	|-------------------------------------------	|
+|-----------------------|-----------------------------------------------|
 | Method:           	| POST                                      	|
 | URL:              	| https://api.webnet.mywire.org/auth/login   	|
 | Body:             	| JSON                                      	|
 
-| **Body Parameters** 	| **Type** 	| **Necessary** 	| **Description**                                                                     	|
-|-------------------	|----------	|---------------	|-------------------------------------------------------------------------------------	|
+| **Body Parameters** 	| **Type** 	| **Required** 	    | **Description**                                                                     	|
+|-----------------------|-----------|-------------------|---------------------------------------------------------------------------------------|
 | username          	| string   	| YES           	| The user's username                                                                 	|
 | password          	| string   	| YES           	| The user's password                                                                 	|
 | domain            	| string   	| NO            	| The domain the user belongs to (default: webnet.mywire.org)                         	|
@@ -21,7 +21,7 @@ Documentation of login API - https://api.webnet.mywire.org/auth/login (POST)
 ## RESPONSE - Code: 200 (OK)
 
 | **Parameters** 	| **Type**      	| **Description**                                           	|
-|----------------	|---------------	|-----------------------------------------------------------	|
+|-------------------|-------------------|---------------------------------------------------------------|
 | username       	| string        	| The user's username                                       	|
 | domain         	| string        	| The user's domain                                         	|
 | display_name   	| string        	| The user's display name                                   	|
