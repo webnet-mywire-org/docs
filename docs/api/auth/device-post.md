@@ -1,12 +1,12 @@
-# Get devices (GET) - WN API DOCS
+# Get devices (POST) - WN API DOCS
 
-Documentation of get devices API - https://api.webnet.mywire.org/auth/deivce (GET)
+Documentation of get devices API - https://api.webnet.mywire.org/auth/deivce (POST)
 
 ## REQUEST
 
 | **HTTP Parametars** 	| **Value**                                   |
 |-----------------------|---------------------------------------------|
-| Method:           	| GET                                         |
+| Method:           	| POST                                        |
 | URL:              	| https://api.webnet.mywire.org/auth/deivce   |
 | Body:             	| JSON                                        |
 

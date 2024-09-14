@@ -1,12 +1,12 @@
-# Renew or get session (GET) - WN API DOCS
+# Renew or get session (POST) - WN API DOCS
 
-Documentation of renew or get the session API - https://api.webnet.mywire.org/auth/session (GET)
+Documentation of renew or get the session API - https://api.webnet.mywire.org/auth/session (POST)
 
 ## REQUEST
 
 | **HTTP Parametars** 	| **Value**                                   |
 |-----------------------|---------------------------------------------|
-| Method:           	| GET                                         |
+| Method:           	| POST                                        |
 | URL:              	| https://api.webnet.mywire.org/auth/session  |
 | Body:             	| JSON                                        |
 

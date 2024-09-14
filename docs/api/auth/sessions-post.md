@@ -1,12 +1,12 @@
-# Get sessions (GET) - WN API DOCS
+# Get sessions (POST) - WN API DOCS
 
-Documentation of get sessions API - https://api.webnet.mywire.org/auth/sessions (GET)
+Documentation of get sessions API - https://api.webnet.mywire.org/auth/sessions (POST)
 
 ## REQUEST
 
 | **HTTP Parametars** 	| **Value**                                    |
 |-----------------------|----------------------------------------------|
-| Method:           	| GET                                          |
+| Method:           	| POST                                         |
 | URL:              	| https://api.webnet.mywire.org/auth/sessions  |
 | Body:             	| JSON                                         |
 
