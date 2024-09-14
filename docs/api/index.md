@@ -6,7 +6,7 @@ Welcome to the WebNet API Documentation, your comprehensive guide to integrating
 
 Login - [https://api.webnet.mywire.org/auth/login (POST)](https://webnet-mywire-org.github.io/docs/api/auth/login-post.html)
 
-Renew Session - [https://api.webnet.mywire.org/auth/session (GET)](https://webnet-mywire-org.github.io/docs/api/auth/session-get.html)
+Renew or Get Session - [https://api.webnet.mywire.org/auth/session (GET)](https://webnet-mywire-org.github.io/docs/api/auth/session-get.html)
 
 Get Sessions - [https://api.webnet.mywire.org/auth/sessions (GET)](https://webnet-mywire-org.github.io/docs/api/auth/sessions-get.html)
 
