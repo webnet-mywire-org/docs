@@ -10,8 +10,8 @@ Renew or Get Session - [https://api.webnet.mywire.org/auth/session (POST)](https
 
 Get Sessions - [https://api.webnet.mywire.org/auth/sessions (POST)](https://webnet-mywire-org.github.io/docs/api/auth/sessions-post.html)
 
-Logout Session - [https://api.webnet.mywire.org/auth/session (DELETE)](https://webnet-mywire-org.github.io/docs/api/auth/session-delete.html)
+Logout Session - [https://api.webnet.mywire.org/auth/logout-session (POST)](https://webnet-mywire-org.github.io/docs/api/auth/logout-session-post.html)
 
 Get Devices - [https://api.webnet.mywire.org/auth/device (POST)](https://webnet-mywire-org.github.io/docs/api/auth/device-psot.html)
 
-Logout Device - [https://api.webnet.mywire.org/auth/device (DELETE)](https://webnet-mywire-org.github.io/docs/api/auth/device-delete.html)
+Logout Device - [https://api.webnet.mywire.org/auth/logout-device (PSOT)](https://webnet-mywire-org.github.io/docs/api/auth/logout-device-post.html)
