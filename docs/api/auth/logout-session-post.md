@@ -1,14 +1,14 @@
-# Logout session (DELETE) - WN API DOCS
+# Logout session (POST) - WN API DOCS
 
-Documentation of logout session API - https://api.webnet.mywire.org/auth/session (delete)
+Documentation of logout session API - https://api.webnet.mywire.org/auth/session (POST)
 
 ## REQUEST
 
-| **HTTP Parametars** 	| **Value**                                 	|
-|-----------------------|-----------------------------------------------|
-| Method:           	| DELETE                                      	|
-| URL:              	| https://api.webnet.mywire.org/auth/session   	|
-| Body:             	| JSON                                      	|
+| **HTTP Parametars** 	| **Value**                                 	        |
+|-----------------------|-------------------------------------------------------|
+| Method:           	| POST                                      	        |
+| URL:              	| https://api.webnet.mywire.org/auth/logout-session   	|
+| Body:             	| JSON                                      	        |
 
 | **Body Parameters** | **Type** | **Required**  | **Description**    |
 |---------------------|----------|---------------|--------------------|

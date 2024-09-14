@@ -1,14 +1,14 @@
-# Logout Device (DELETE) - WN API DOCS
+# Logout Device (GET) - WN API DOCS
 
-Documentation of logout device API - https://api.webnet.mywire.org/auth/device (DELETE)
+Documentation of logout device API - https://api.webnet.mywire.org/auth/device (GET)
 
 ## REQUEST
 
-| **HTTP Parametars** 	| **Value**                                  |
-|-----------------------|--------------------------------------------|
-| Method:           	| DELETE                                     |
-| URL:              	| https://api.webnet.mywire.org/auth/device  |
-| Body:             	| JSON                                       |
+| **HTTP Parametars** 	| **Value**                                         |
+|-----------------------|---------------------------------------------------|
+| Method:           	| GET                                               |
+| URL:              	| https://api.webnet.mywire.org/auth/logout-device  |
+| Body:             	| JSON                                              |
 
 | **Body Parameters** | **Type** | **Required** | **Description**       |
 |---------------------|----------|--------------|-----------------------|
