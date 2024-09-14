@@ -1,6 +1,6 @@
-# Get session (POST) - WN API DOCS
+# Renew session (GET) - WN API DOCS
 
-Documentation of get session API - https://api.webnet.mywire.org/auth/session (GET)
+Documentation of renew session API - https://api.webnet.mywire.org/auth/session (GET)
 
 ## REQUEST
 
@@ -18,10 +18,12 @@ Documentation of get session API - https://api.webnet.mywire.org/auth/session (G
 
 ## RESPONSE - Code: 200 (OK)
 
-| **Parameters** | **Type** | **Description**                         |
-|----------------|----------|-----------------------------------------|
-| session        | string   | The user's new session                  |
-| session_old    | string   | The user's old, no longer valid session |
+| **Parameters** | **Type**       | **Description**                         |
+|----------------|----------------|-----------------------------------------|
+| session        | string         | The user's new session                  |
+| session_old*   | string / null  | The user's old, no longer valid session |
+
+\* _"session_old" is set to null if "device_key" was used in the request_
 
 ## RESPONSE - Code: 400 (Bad Request)
 
