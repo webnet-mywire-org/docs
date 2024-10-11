@@ -4,7 +4,7 @@ Documentation of login API - https://api.webnet.mywire.org/auth/login (POST)
 
 ## REQUEST
 
-| **HTTP Parametars** 	| **Value**                                 	|
+| **HTTP Parameters** 	| **Value**                                 	|
 |-----------------------|-----------------------------------------------|
 | Method:           	| POST                                      	|
 | URL:              	| https://api.webnet.mywire.org/auth/login   	|

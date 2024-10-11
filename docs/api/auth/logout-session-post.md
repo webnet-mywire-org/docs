@@ -4,7 +4,7 @@ Documentation of logout session API - https://api.webnet.mywire.org/auth/session
 
 ## REQUEST
 
-| **HTTP Parametars** 	| **Value**                                 	        |
+| **HTTP Parameters** 	| **Value**                                 	        |
 |-----------------------|-------------------------------------------------------|
 | Method:           	| POST                                      	        |
 | URL:              	| https://api.webnet.mywire.org/auth/logout-session   	|

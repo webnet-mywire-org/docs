@@ -4,7 +4,7 @@ Documentation of logout device API - https://api.webnet.mywire.org/auth/device (
 
 ## REQUEST
 
-| **HTTP Parametars** 	| **Value**                                         |
+| **HTTP Parameters** 	| **Value**                                         |
 |-----------------------|---------------------------------------------------|
 | Method:           	| GET                                               |
 | URL:              	| https://api.webnet.mywire.org/auth/logout-device  |

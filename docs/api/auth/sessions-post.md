@@ -4,7 +4,7 @@ Documentation of get sessions API - https://api.webnet.mywire.org/auth/sessions 
 
 ## REQUEST
 
-| **HTTP Parametars** 	| **Value**                                    |
+| **HTTP Parameters** 	| **Value**                                    |
 |-----------------------|----------------------------------------------|
 | Method:           	| POST                                         |
 | URL:              	| https://api.webnet.mywire.org/auth/sessions  |

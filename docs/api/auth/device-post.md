@@ -4,7 +4,7 @@ Documentation of get devices API - https://api.webnet.mywire.org/auth/deivce (PO
 
 ## REQUEST
 
-| **HTTP Parametars** 	| **Value**                                   |
+| **HTTP Parameters** 	| **Value**                                   |
 |-----------------------|---------------------------------------------|
 | Method:           	| POST                                          |
 | URL:              	| https://api.webnet.mywire.org/auth/device     |

@@ -15,3 +15,13 @@ Logout Session - [https://api.webnet.mywire.org/auth/logout-session (POST)](http
 Get Devices - [https://api.webnet.mywire.org/auth/device (POST)](https://webnet-mywire-org.github.io/docs/api/auth/device-post.html)
 
 Logout Device - [https://api.webnet.mywire.org/auth/logout-device (PSOT)](https://webnet-mywire-org.github.io/docs/api/auth/logout-device-post.html)
+
+## Music
+
+Search Songs (YT Music) - [https://api.webnet.mywire.org/music/search (GET)](https://webnet-mywire-org.github.io/docs/api/music/search-get.html)
+
+Song Thumbnail (YT Music) - [https://api.webnet.mywire.org/music/thumbnail (GET)](https://webnet-mywire-org.github.io/docs/api/music/thumbnail-get.html)
+
+Song Info (YT Music) - [https://api.webnet.mywire.org/music/info (GET)](https://webnet-mywire-org.github.io/docs/api/music/info-get.html)
+
+Song Lyrics (YT Music) - [https://api.webnet.mywire.org/music/lyrics (GET)](https://webnet-mywire-org.github.io/docs/api/music/lyrics-get.html)

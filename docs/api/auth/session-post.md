@@ -4,7 +4,7 @@ Documentation of renew or get the session API - https://api.webnet.mywire.org/au
 
 ## REQUEST
 
-| **HTTP Parametars** 	| **Value**                                   |
+| **HTTP Parameters** 	| **Value**                                   |
 |-----------------------|---------------------------------------------|
 | Method:           	| POST                                        |
 | URL:              	| https://api.webnet.mywire.org/auth/session  |
