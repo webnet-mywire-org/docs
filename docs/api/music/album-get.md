@@ -32,4 +32,4 @@ Request does not have all required parameters or they are not correct
 
 ## RESPONSE - Code: 404 (Not Found)
 
-Song is not found
+Album is not found

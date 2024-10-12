@@ -27,3 +27,5 @@ Song Info (YT Music) - [https://api.webnet.mywire.org/music/info (GET)](https://
 Album Info (YT Music) - [https://api.webnet.mywire.org/music/album (GET)](https://webnet-mywire-org.github.io/docs/api/music/album-get.html)
 
 Song Lyrics (YT Music) - [https://api.webnet.mywire.org/music/lyrics (GET)](https://webnet-mywire-org.github.io/docs/api/music/lyrics-get.html)
+
+Song Stream (YT Music) - [https://api.webnet.mywire.org/music/stream (GET)](https://webnet-mywire-org.github.io/docs/api/music/stream-get.html)
