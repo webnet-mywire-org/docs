@@ -24,4 +24,6 @@ Song Thumbnail (YT Music) - [https://api.webnet.mywire.org/music/thumbnail (GET)
 
 Song Info (YT Music) - [https://api.webnet.mywire.org/music/info (GET)](https://webnet-mywire-org.github.io/docs/api/music/info-get.html)
 
+Album Info (YT Music) - [https://api.webnet.mywire.org/music/album (GET)](https://webnet-mywire-org.github.io/docs/api/music/album-get.html)
+
 Song Lyrics (YT Music) - [https://api.webnet.mywire.org/music/lyrics (GET)](https://webnet-mywire-org.github.io/docs/api/music/lyrics-get.html)

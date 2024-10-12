@@ -19,4 +19,12 @@ To run project XYZ, use the following command:
 ```bash
 $ xyz start
 ```
+## API
+
+WebNet API - [https://api.webnet.mywire.org/](https://webnet-mywire-org.github.io/docs/api)
+
+## JavaScript libraries
+
+WebNet.js - [https://assets.webnet.mywire.org/js/WebNet.js](https://webnet-mywire-org.github.io/docs/js/WebNet.html)
+
 ## END
