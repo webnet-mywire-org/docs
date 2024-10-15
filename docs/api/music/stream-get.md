@@ -13,7 +13,6 @@ Documentation of stream song API - https://api.webnet.mywire.org/music/info (GET
 | **Body Parameters** | **Type** | **Required** | **Description**       |
 |---------------------|----------|--------------|-----------------------|
 | id                  | string   | YES          | YouTube Music song ID |
-| itag                | string   | YES          | YouTube Music song ID |
 
 ## RESPONSE - Code: 200 (OK)
 
