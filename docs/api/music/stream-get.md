@@ -1,6 +1,6 @@
 # Song Stream (GET) - WN API DOCS
 
-Documentation of stream song API - https://api.webnet.mywire.org/music/info (GET)
+Documentation of stream song API - https://api.webnet.mywire.org/music/stream (GET)
 
 ## REQUEST
 
