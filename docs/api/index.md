@@ -30,7 +30,7 @@ Song Lyrics (YT Music) - [https://api.webnet.mywire.org/music/lyrics (GET)](http
 
 Song Stream (YT Music) - [https://api.webnet.mywire.org/music/stream (GET)](https://webnet-mywire-org.github.io/docs/api/music/stream-get.html)
 
-[ ] Make File (YT Music) - [https://api.webnet.mywire.org/music/file/make (POST)]
+Make File (YT Music) - [https://api.webnet.mywire.org/music/file/make (POST)](https://webnet-mywire-org.github.io/docs/api/music/file/make.html)
 
 [ ] Download File (YT Music) - [https://api.webnet.mywire.org/music/file/download (GET)]
 
