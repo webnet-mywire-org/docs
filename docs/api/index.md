@@ -16,7 +16,7 @@ Get Devices - [https://api.webnet.mywire.org/auth/device (POST)](https://webnet-
 
 Logout Device - [https://api.webnet.mywire.org/auth/logout-device (PSOT)](https://webnet-mywire-org.github.io/docs/api/auth/logout-device-post.html)
 
-## Music
+<!--- ## Music
 
 Search Songs (YT Music) - [https://api.webnet.mywire.org/music/search (GET)](https://webnet-mywire-org.github.io/docs/api/music/search-get.html)
 
@@ -34,4 +34,4 @@ Make File (YT Music) - [https://api.webnet.mywire.org/music/file/make (POST)](ht
 
 [ ] Download File (YT Music) - [https://api.webnet.mywire.org/music/file/download (GET)]
 
-[ ] Save File (YT Music) - [https://api.webnet.mywire.org/music/file/save (POST)]
+[ ] Save File (YT Music) - [https://api.webnet.mywire.org/music/file/save (POST)] --->
