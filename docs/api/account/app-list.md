@@ -1,4 +1,4 @@
-# Get devices (POST) - WN API DOCS
+# App list (POST) - WN API DOCS
 
 Documentation of user app list API - https://api.webnet.mywire.org/account/app-list (POST)
 
