@@ -4,7 +4,7 @@ Welcome to the WebNet API Documentation, your comprehensive guide to integrating
 
 ## Account
 
-Apps list - [https://api.webnet.mywire.org/account/app-list (POST)](https://webnet-mywire-org.github.io/docs/api/auth/app-list.html)
+Apps list - [https://api.webnet.mywire.org/account/app-list (POST)](https://webnet-mywire-org.github.io/docs/api/account/app-list.html)
 
 ## AUTH
 
