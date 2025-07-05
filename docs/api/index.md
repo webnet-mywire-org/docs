@@ -1,4 +1,4 @@
-# ![WebNet](https://raw.githubusercontent.com/webnet-mywire-org/docs/refs/heads/master/image/favicon.svg | height = 100px) WebNet API Documentation 
+# <img src="https://raw.githubusercontent.com/webnet-mywire-org/docs/refs/heads/master/image/favicon.svg" alt="Logo" heigth="28px" /> WebNet API Documentation 
 
 Welcome to the WebNet API Documentation, your comprehensive guide to integrating and utilizing the powerful features of the WebNet platform. This documentation provides detailed information on endpoints, request/response formats, and usage examples to help developers seamlessly interact with our services.
 
