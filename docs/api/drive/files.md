@@ -30,8 +30,8 @@ Documentation of get files and folders API - https://api.webnet.mywire.org/drive
 
 \* _files_: Each file or folder object contains:
   - **name**: string - Name of the file or folder
-  - **isDirectory**: boolean - True if it's a folder else false
-  - **isSymlink**: boolean (optional) - True if it's a symlink else false
+  - **isDirectory**: boolean - True if it's a folder, else false
+  - **isSymlink**: boolean - True if it's a symlink, else false
 
 ## RESPONSE - Code: 400 (Bad Request)
 
