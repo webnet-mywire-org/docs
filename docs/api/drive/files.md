@@ -16,9 +16,9 @@ Documentation of get files and folders API - https://api.webnet.mywire.org/drive
 |----------------------|-----------|--------------|---------------------------------------|
 | session              | string    | YES          | The user's session                    |
 | path                 | string    | YES          | The folder path in drive              |
-| sort                 | string    | NO           | Sort order: "desc" ro "asc" (by name) |
+| sort*                | string    | NO           | Sort order: "desc" ro "asc" (by name) |
 
-\* _sort_: If not specified, the default is "desc" by name.
+\* _sort_: If not specified, the default is "asc" by name.
 
 ## RESPONSE - Code: 200 (OK)
 
@@ -26,10 +26,11 @@ Documentation of get files and folders API - https://api.webnet.mywire.org/drive
 |-----------------|----------|-----------------------------------------|
 | total           | integer  | Total number of files and folders found |
 | sort_order      | string   | Sort order used: "desc" or "asc"        |
-| files           | array    | Array of files and folders              |
+| files*          | array    | Array of files and folders              |
 
 \* _files_: Each file or folder object contains:
   - **name**: string - Name of the file or folder
+  - **ext**: string - File extension (empty for folders)
   - **isDirectory**: boolean - True if it's a folder, else false
   - **isSymlink**: boolean - True if it's a symlink, else false
 
