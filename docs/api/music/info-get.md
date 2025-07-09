@@ -1,6 +1,6 @@
 # Song Info (GET) - WN API DOCS
 
-Documentation of search songs API - https://api.webnet.mywire.org/music/info (GET)
+Documentation of song info API - https://api.webnet.mywire.org/music/info (GET)
 
 ## REQUEST
 

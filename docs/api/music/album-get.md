@@ -1,6 +1,6 @@
 # Album Info (GET) - WN API DOCS
 
-Documentation of album info  API - https://api.webnet.mywire.org/music/album (GET)
+Documentation of album info API - https://api.webnet.mywire.org/music/album (GET)
 
 ## REQUEST
 

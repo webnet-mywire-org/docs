@@ -24,4 +24,4 @@ Request does not have all required parameters or they are not correct
 
 ## RESPONSE - Code: 404 (Not Found)
 
-Lyrics is not found
+Lyrics are not found

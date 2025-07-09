@@ -16,7 +16,7 @@ Documentation of get files and folders API - https://api.webnet.mywire.org/drive
 |----------------------|-----------|--------------|---------------------------------------|
 | session              | string    | YES          | The user's session                    |
 | path                 | string    | YES          | The folder path in drive              |
-| sort*                | string    | NO           | Sort order: "desc" ro "asc" (by name) |
+| sort*                | string    | NO           | Sort order: "desc" or "asc" (by name) |
 
 \* _sort_: If not specified, the default is "asc" by name.
 

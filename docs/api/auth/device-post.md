@@ -1,6 +1,6 @@
 # Get devices (POST) - WN API DOCS
 
-Documentation of get devices API - https://api.webnet.mywire.org/auth/deivce (POST)
+Documentation of get devices API - https://api.webnet.mywire.org/auth/device (POST)
 
 ## REQUEST
 
@@ -20,7 +20,7 @@ Documentation of get devices API - https://api.webnet.mywire.org/auth/deivce (PO
 
 | **Parameters** | **Type** | **Description**                         |
 |----------------|----------|-----------------------------------------|
-| devices        | array    | The user's deivces list in JSON         |
+| devices        | array    | The user's devices list in JSON         |
 
 ## RESPONSE - Code: 400 (Bad Request)
 
