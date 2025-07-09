@@ -45,3 +45,7 @@ Unauthorized if the session is invalid or expired.
 ## RESPONSE - Code: 403 (Forbidden)
 
 Forbidden if the user does not have permission to access the specified drive or folder.
+
+## RESPONSE - Code: 404 (Not found)
+
+Directory is not found or doesn't exist
