@@ -7,7 +7,7 @@ Documentation of get file or folder information API - https://api.webnet.mywire.
 | **HTTP Parameters**   | **Value**                                            |
 |-----------------------|------------------------------------------------------|
 | Method:           	| POST                                                 |
-| URL:              	| https://api.webnet.mywire.org/drive/\[:drive\]/files |
+| URL:              	| https://api.webnet.mywire.org/drive/\[:drive\]/info  |
 | Body:             	| JSON                                                 |
 
 \* _drive_: The drive name: "disk", "media", "photos", App ID, Share ID, etc.
