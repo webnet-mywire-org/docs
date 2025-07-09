@@ -43,3 +43,5 @@ Make File (YT Music) - [https://api.webnet.mywire.org/music/file/make (POST)](ht
 ## Drive
 
 Get Files and Folders - [https://api.webnet.mywire.org/drive/files (POST)](https://webnet-mywire-org.github.io/docs/api/drive/files.html)
+
+Get folder or file information - [https://api.webnet.mywire.org/drive/info (POST)](https://webnet-mywire-org.github.io/docs/api/drive/info.html)

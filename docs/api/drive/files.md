@@ -30,6 +30,7 @@ Documentation of get files and folders API - https://api.webnet.mywire.org/drive
 
 \* _files_: Each file or folder object contains:
   - **name**: string - Name of the file or folder
+  - **full_name**: string - Full name of the file or folder
   - **ext**: string - File extension (empty for folders)
   - **isDirectory**: boolean - True if it's a folder, else false
   - **isSymlink**: boolean - True if it's a symlink, else false
@@ -49,3 +50,7 @@ Forbidden if the user does not have permission to access the specified drive or 
 ## RESPONSE - Code: 404 (Not found)
 
 Directory is not found or doesn't exist
+
+## RESPONSE - Code: 500 (Internal Server Error)
+
+An unexpected server error occurred. Please try again later.
