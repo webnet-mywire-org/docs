@@ -1,21 +1,22 @@
 # Open file (POST) - WN API DOCS
 
-Documentation of download file API - https://api.webnet.mywire.org/drive/\[:drive\]/open (POST)
+Documentation of download file API - https://api.webnet.mywire.org/drive/\[:drive\]/open (GET)
 
 ## REQUEST
 
 | **HTTP Parameters**   | **Value**                                            |
 |-----------------------|------------------------------------------------------|
-| Method:           	| POST                                                 |
+| Method:           	| GET                                                  |
 | URL:              	| https://api.webnet.mywire.org/drive/\[:drive\]/open  |
-| Body:             	| JSON                                                 |
+| Params:             	| JSON                                                 |
 
 \* _drive_: The drive name: "disk", "media", "photos", App ID, Share ID, etc.
 
-| **Body Parameters**  | **Type**  | **Required** | **Description**                       |
-|----------------------|-----------|--------------|---------------------------------------|
-| session              | string    | YES          | The user's session                    |
-| path                 | string    | YES          | The file path in drive                |
+| **Body Parameters**  | **Type**  | **Required** | **Description**                            |
+|----------------------|-----------|--------------|--------------------------------------------|
+| session              | string    | YES          | The user's session                         |
+| path                 | string    | YES          | The file path in drive                     |
+| download             | boolean   | NO           | Set mimeType to "application/octet-stream" |
 
 ## RESPONSE - Code: 200 (OK)
 
