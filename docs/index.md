@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/webnet-mywire-org/docs/refs/heads/master/image/favicon.svg" alt="Logo" width="26px" /> WebNet Documentation 
 
-![WebNet Baner](/image/baner-dark.png)
+![WebNet Baner](https://raw.githubusercontent.com/webnet-mywire-org/docs/refs/heads/master/image/baner-dark.png)
 
 Welcome to the documentation for the *WebNet System*. Here you can find information about usage, installation, and other aspects of this project.
 
