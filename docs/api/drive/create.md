@@ -29,7 +29,7 @@ Documentation of create file or folder API - https://api.webnet.mywire.org/drive
 
 ## RESPONSE - Code: 400 (Bad Request)
 
-Bad request missing or invalid parameters.
+Bad request: missing or invalid parameters.
 
 ## RESPONSE - Code: 401 (Unauthorized)
 
