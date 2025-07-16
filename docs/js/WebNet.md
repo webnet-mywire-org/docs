@@ -49,8 +49,29 @@ To work, the body needs this element:
 <div class="toast" id="toast"></div>
 ```
 
+### wn.ui.confirm  ()
+
+```void: confirm: function (string: title, string: message, function: cb_ok, function: cb_close)```
+
+Display a confirm dialog with title and message. And ok return input call function cb_ok or cb_close.
+
+To work, the body needs this element:
+```html
+<input type="checkbox" id="modal-confirm" class="modal-toggle" />
+<div class="modal" role="dialog">
+    <div class="modal-box">
+        <h3 class="text-lg font-bold" id="modal-confirm-title"></h3>
+        <p class="py-4" id="modal-confirm-message"></p>
+        <div class="modal-action">
+            <label for="modal-confirm" class="btn btn-soft" id="modal-confirm-close">Close</label>
+            <label for="modal-confirm" class="btn btn-soft btn-primary" id="modal-confirm-ok">Ok</label>
+        </div>
+    </div>
+</div>
+```
+
 ### wn.ui.getPWADisplayMode()
 
-```string: wn.ui.toast(void)```
+```string: wn.ui.getPWADisplayMode(void)```
 
 Get PWA current display mode. Display modes are: twa, browser, standalone, minimal-ui, fullcreen, window-controls-overlay. 
