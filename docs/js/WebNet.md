@@ -49,4 +49,8 @@ To work, the body needs this element:
 <div class="toast" id="toast"></div>
 ```
 
+### wn.ui.getPWADisplayMode()
 
+```string: wn.ui.toast(void)```
+
+Get PWA current display mode. Display modes are: twa, browser, standalone, minimal-ui, fullcreen, window-controls-overlay. 
