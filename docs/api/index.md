@@ -49,3 +49,5 @@ Get folder or file information - [https://api.webnet.mywire.org/drive/info (POST
 Open file - [https://api.webnet.mywire.org/drive/open (GET)](https://webnet-mywire-org.github.io/docs/api/drive/open.html)
 
 Create file or folder - [https://api.webnet.mywire.org/drive/create (POST)](https://webnet-mywire-org.github.io/docs/api/drive/create.html)
+
+Get file thumbnail - [https://api.webnet.mywire.org/drive/thumbnail (GET)](https://webnet-mywire-org.github.io/docs/api/drive/thumbnail.html)

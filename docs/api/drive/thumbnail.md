@@ -1,14 +1,14 @@
-# Open file (GET) - WN API DOCS
+# File thumbnail (GET) - WN API DOCS
 
-Documentation of download file API - https://api.webnet.mywire.org/drive/\[:drive\]/open (GET)
+Documentation of file thumbnail API - https://api.webnet.mywire.org/drive/\[:drive\]/thumbnail (GET)
 
 ## REQUEST
 
-| **HTTP Parameters**   | **Value**                                            |
-|-----------------------|------------------------------------------------------|
-| Method:           	| GET                                                  |
-| URL:              	| https://api.webnet.mywire.org/drive/\[:drive\]/open  |
-| Params:             	| JSON                                                 |
+| **HTTP Parameters**   | **Value**                                                 |
+|-----------------------|-----------------------------------------------------------|
+| Method:           	| GET                                                       |
+| URL:              	| https://api.webnet.mywire.org/drive/\[:drive\]/thumbnail  |
+| Params:             	| JSON                                                      |
 
 \* _drive_: The drive name: "disk", "media", "photos", App ID, Share ID, etc.
 
@@ -16,11 +16,10 @@ Documentation of download file API - https://api.webnet.mywire.org/drive/\[:driv
 |----------------------|-----------|--------------|--------------------------------------------|
 | session              | string    | YES          | The user's session                         |
 | path                 | string    | YES          | The file path in drive                     |
-| download             | boolean   | NO           | Set mimeType to "application/octet-stream" |
 
 ## RESPONSE - Code: 200 (OK)
 
-File buffer
+File thumbnail buffer in jpg format
 
 ## RESPONSE - Code: 400 (Bad Request)
 
