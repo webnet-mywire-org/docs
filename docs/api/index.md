@@ -51,3 +51,11 @@ Open file - [https://api.webnet.mywire.org/drive/open (GET)](https://webnet-mywi
 Create file or folder - [https://api.webnet.mywire.org/drive/create (POST)](https://webnet-mywire-org.github.io/docs/api/drive/create.html)
 
 Get file thumbnail - [https://api.webnet.mywire.org/drive/thumbnail (GET)](https://webnet-mywire-org.github.io/docs/api/drive/thumbnail.html)
+
+## Search
+
+Search for Movies and TV shows (TMDB) - [https://api.webnet.mywire.org/search/tmdb (POST)](https://webnet-mywire-org.github.io/docs/api/search/tmdb.html)
+
+## Image
+
+Get avatar image - [https://api.webnet.mywire.org/image/avatar (GET)](https://webnet-mywire-org.github.io/docs/api/image/avatar.html)
