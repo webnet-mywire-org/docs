@@ -59,3 +59,5 @@ Search for Movies and TV shows (TMDB) - [https://api.webnet.mywire.org/search/tm
 ## Image
 
 Get avatar image - [https://api.webnet.mywire.org/image/avatar (GET)](https://webnet-mywire-org.github.io/docs/api/image/avatar.html)
+
+Get poster image - [https://api.webnet.mywire.org/image/poster (GET)](https://webnet-mywire-org.github.io/docs/api/image/poster.html)
