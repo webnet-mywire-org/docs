@@ -1,6 +1,6 @@
-# Get Image Avatar (GET) - WN API DOCS
+# Get Image Poster (GET) - WN API DOCS
 
-Documentation of get image avatar API - https://api.webnet.mywire.org/image/poster (GET)
+Documentation of get image poster API - https://api.webnet.mywire.org/image/poster (GET)
 
 ## REQUEST
 
