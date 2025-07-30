@@ -54,6 +54,8 @@ Get file thumbnail - [https://api.webnet.mywire.org/drive/thumbnail (GET)](https
 
 ## Search
 
+Search for Web (SearxGN) - [https://api.webnet.mywire.org/search/web (POST)](https://webnet-mywire-org.github.io/docs/api/search/web.html)
+
 Search for Movies and TV shows (TMDB) - [https://api.webnet.mywire.org/search/tmdb (POST)](https://webnet-mywire-org.github.io/docs/api/search/tmdb.html)
 
 ## Image
