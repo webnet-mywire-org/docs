@@ -14,6 +14,7 @@ Documentation of Start process API - https://api.webnet.mywire.org/process/\[:id
 
 | **Body Parameters**  | **Type**  | **Required** | **Description**                              |
 |----------------------|-----------|--------------|----------------------------------------------|
+|                      |           |              |                                              |
 
 ## RESPONSE - Code: 200 (OK)
 

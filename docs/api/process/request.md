@@ -14,6 +14,7 @@ Documentation of Request to process API - https://api.webnet.mywire.org/process/
 
 | **Body Parameters**  | **Type**  | **Required** | **Description**                              |
 |----------------------|-----------|--------------|----------------------------------------------|
+|                      |           |              |                                              |
 
 \* Determined by the type of process
 
@@ -21,6 +22,7 @@ Documentation of Request to process API - https://api.webnet.mywire.org/process/
 
 | **Parameters**  | **Type**  | **Description**                                 |
 |-----------------|-----------|-------------------------------------------------|
+|                 |           |                                                 |
 
 \* Determined by the type of process
 
