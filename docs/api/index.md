@@ -52,6 +52,14 @@ Create file or folder - [https://api.webnet.mywire.org/drive/create (POST)](http
 
 Get file thumbnail - [https://api.webnet.mywire.org/drive/thumbnail (GET)](https://webnet-mywire-org.github.io/docs/api/drive/thumbnail.html)
 
+Delete file or folder - [https://api.webnet.mywire.org/drive/delete (POST)](https://webnet-mywire-org.github.io/docs/api/drive/delete.html)
+
+## Process
+
+Start Process - [https://api.webnet.mywire.org/process/start (POST)](https://webnet-mywire-org.github.io/docs/api/process/start.html)
+
+Request to process - [https://api.webnet.mywire.org/process/request (POST)](https://webnet-mywire-org.github.io/docs/api/process/request.html)
+
 ## Search
 
 Search for Web (SearxGN) - [https://api.webnet.mywire.org/search/web (POST)](https://webnet-mywire-org.github.io/docs/api/search/web.html)
