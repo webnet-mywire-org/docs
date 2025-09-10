@@ -24,9 +24,9 @@ Documentation of Rename file or folder API - https://api.webnet.mywire.org/drive
 
 | **Parameters**  | **Type**  | **Description**                                 |
 |-----------------|-----------|-------------------------------------------------|
-| process_id      | string    | Process ID for handling file or folder deletion |
+| process_id      | string    | Process ID for handling file or folder renaming |
 
-* _process request_ (get-progress): Get state of deleting progress
+* _process request_ (get-status): Get state of deleting progress
   - **action**: string - "get-status"
   
 
