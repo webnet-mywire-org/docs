@@ -54,6 +54,8 @@ Get file thumbnail - [https://api.webnet.mywire.org/drive/thumbnail (GET)](https
 
 Delete file or folder - [https://api.webnet.mywire.org/drive/delete (POST)](https://webnet-mywire-org.github.io/docs/api/drive/delete.html)
 
+Rename file or folder - [https://api.webnet.mywire.org/drive/rename (POST)](https://webnet-mywire-org.github.io/docs/api/drive/rename.html)
+
 ## Process
 
 Start Process - [https://api.webnet.mywire.org/process/start (POST)](https://webnet-mywire-org.github.io/docs/api/process/start.html)
