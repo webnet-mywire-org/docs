@@ -1,0 +1,56 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage[sfdefault, light]{inter} 
+\usepackage[margin=25mm,top=20mm]{geometry}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{enumitem}
+\usepackage{caption}
+\usepackage{hyperref}
+
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyhead[L]{\small Documentation Tamplate}
+\fancyhead[R]{\makebox[0pt][r]{\raisebox{-2pt}{\includegraphics[height=14pt]{image/logo-text-light.png}}}} 
+
+\fancyfoot[L]{\small Copyright © WebNet. All rights reserved.}
+\fancyfoot[R]{\small English (English), \thepage/\pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\addtolength{\headheight}{16pt}
+
+\fancypagestyle{firstpage}{
+    \fancyhf{} 
+    \fancyhead[L]{} 
+    \fancyhead[R]{}
+    \renewcommand{\headrulewidth}{0pt}
+    \fancyfoot[L]{\small Copyright © WebNet. All rights reserved.}
+    \fancyfoot[R]{\small English (English), \thepage/\pageref{LastPage}}
+    \renewcommand{\footrulewidth}{0.4pt}
+}
+
+\begin{document}
+
+\thispagestyle{firstpage}
+
+\noindent
+\begin{minipage}[b]{0.90\textwidth}
+    {\fontsize{36pt}{40pt}\fontseries{h}\selectfont \textbf{Documentation \\[6pt] Tamplate}}
+\end{minipage}%
+\begin{minipage}[b]{0.10\textwidth}
+    \raggedleft
+    \includegraphics[width=15mm]{image/logo-color-light-bg.png}\\[4pt]
+\end{minipage}
+
+\vspace{5mm}
+\hrule height 1.2pt
+\vspace{6mm}
+
+This is template for WebNet Documentation.
+
+\end{document}
